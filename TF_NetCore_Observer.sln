@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_Utilisation_délégué",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_Utilisation_Délégué avancée", "03_Utilisation_Délégué avancée", "{98B7AF9E-5ADD-48B6-AD58-81F493B430DB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_", "04_", "{CCA00A47-A66C-4BF6-AC64-56366A3BCFB3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_Event", "04_Event", "{CCA00A47-A66C-4BF6-AC64-56366A3BCFB3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer_V0", "Observer_V0\Observer_V0.csproj", "{E450CF1A-4025-4019-B01F-E32FA98A3D85}"
 EndProject
